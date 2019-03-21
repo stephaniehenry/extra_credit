@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand|ZCOOL+XiaoWei');
+
+body {
+    margin: 2%;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+
+h1 {
+    font-size: 3em;
+    }
+
+h3 {
+    font-size: 2em;
+    }
+
+
+ul {
+    list-style-type: none;
+    }
+
+a:link {
+    text-decoration: none;
+    }
+
+a:hover {
+    color:mediumseagreen;
+    font-size: 2em;
+    }
+
+a {
+    color: royalblue;
+    font-family: 'Quicksand', sans-serif;
+    }
